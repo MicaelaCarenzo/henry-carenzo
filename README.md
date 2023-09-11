@@ -1,2 +1,1 @@
-# henry-carenzo
-Repositorio de prueba modulo 2 . Prep Course de Henry
+Prueba de como crear un repositorio y clonarlo desde GitHub a la computadora.
